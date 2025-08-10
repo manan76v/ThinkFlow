@@ -14,5 +14,5 @@ It provides an intuitive interface, reusable components, and a responsive design
 
 ---
 
-<img width="1020" height="10563" alt="screencapture-localhost-5173-2025-08-10-11_33_29" src="https://github.com/user-attachments/assets/4fa30b40-c1d0-4d67-8124-784926cd20c8" />
+<img width="440" height="10563" alt="screencapture-localhost-5173-2025-08-10-11_33_29" src="https://github.com/user-attachments/assets/4fa30b40-c1d0-4d67-8124-784926cd20c8" />
 
